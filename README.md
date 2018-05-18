@@ -14,7 +14,7 @@
 #### win_restart.bat
     restart the container which created last time by running the win_run.bat script on Windows platform
 
-## How use script on windows platform
+## How to use scripts on windows platform
 #### 1.Pull the image
 ```dockerfile
 docker pull jacklan/bone-mobile
@@ -30,6 +30,13 @@ win_run.bat
 
 #### 4. Follow the official tutorial to get the project source code
 [https://bone.aliyun.com/bone-mobile/#/docs/introduction-develop](https://bone.aliyun.com/bone-mobile/#/docs/introduction-develop)
+
+
+#### 5.Use the "win_restart.bat" script to restart the container
+
+
+## How to use scripts on Linux platform
+    The steps same as windows but use "run.sh" and "restart.sh" files.
 
 
 
