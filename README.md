@@ -36,7 +36,7 @@ win_run.bat
 
 
 ## How to use scripts on Linux platform
-    The steps same as windows but use "run.sh" and "restart.sh" files.
+    The steps same as windows and use "run.sh" and "restart.sh" files.
 
 
 
